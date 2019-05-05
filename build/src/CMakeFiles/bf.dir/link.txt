@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Wall -std=c++11  -shared -Wl,-soname,libbf.so -o libbf.so CMakeFiles/bf.dir/bf.cpp.o 

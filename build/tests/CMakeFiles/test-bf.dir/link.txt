@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -std=c++11   CMakeFiles/test-bf.dir/catch-bf.cpp.o  -o test-bf -rdynamic libcatch-main.a ../src/libbf.so -Wl,-rpath,/home/curtis/Desktop/Brainfuck/hint-term-project/build/src 

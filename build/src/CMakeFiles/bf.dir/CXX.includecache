@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/curtis/Desktop/Brainfuck/hint-term-project/src/bf.cpp
+bf.h
+/home/curtis/Desktop/Brainfuck/hint-term-project/src/bf.h
+algorithm
+-
+stack
+-
+
+/home/curtis/Desktop/Brainfuck/hint-term-project/src/bf.h
+cstdint
+-
+string
+-
+sstream
+-
+

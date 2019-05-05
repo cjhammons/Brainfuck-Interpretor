@@ -1,0 +1,3 @@
+/home/curtis/Desktop/Brainfuck/hint-term-project/build/src/CMakeFiles/bf.dir
+/home/curtis/Desktop/Brainfuck/hint-term-project/build/tests/CMakeFiles/catch-main.dir
+/home/curtis/Desktop/Brainfuck/hint-term-project/build/tests/CMakeFiles/test-bf.dir
